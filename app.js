@@ -1,13 +1,5 @@
 let listaDeNumerosSorteados = [];
-<<<<<<< HEAD
-let numeroLimite = 70
-=======
-<<<<<<< HEAD
-let numeroLimite = 30
-=======
 let numeroLimite = 40;
->>>>>>> 0a323c5fad427d42e7131216e7d0aca3a762fda1
->>>>>>> parent of 2b9b1db (Test conflict)
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
