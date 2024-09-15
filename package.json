@@ -1,0 +1,12 @@
+{
+    "name": "guessing-game-final-project",
+    "version": "1.0.0",
+    "description": "Rodrigo's Repository",
+     "scripts": {
+      "git:status": "git status", 
+      "git:add"   : "git add .",
+      "git:push"  : "git push origin main",
+      "git:commit": "git commit -m 'Create guessing-game-final-project'",
+      "git:update": "git push origin main"
+    }
+}
