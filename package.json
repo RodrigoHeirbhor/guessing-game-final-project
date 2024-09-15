@@ -10,6 +10,6 @@
       "git:update": "git push -u origin main",
       "git:historico": "git log",
       "git:criar": "git init",
-      "git:pull": "git pull origin main"
+      "git:pull": "git pull origin main 'Test Pull'"
     }
 }
