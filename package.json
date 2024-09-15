@@ -5,8 +5,8 @@
      "scripts": {
       "git:status": "git status", 
       "git:add"   : "git add .",
-      "git:push"  : "git push origin main",
+      "git:push"  : "git push -u origin main",
       "git:commit": "git commit -m 'Create guessing-game-final-project'",
-      "git:update": "git push origin main"
+      "git:update": "git push -u origin main"
     }
 }
