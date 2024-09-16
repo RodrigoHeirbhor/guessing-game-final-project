@@ -12,5 +12,5 @@
 
 # Time
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33001620?v=4" width=115><br><sub>Rodrigo Júnior da Silva Sá</sub>](https://github.com/RodrigoHeirbhor) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/108580655?v=4" width=115><br><sub>Rodrigo Júnior da Silva Sá</sub>](https://github.com/RodrigoHeirbhor) |
 | :---: | :---: |
