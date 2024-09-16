@@ -10,6 +10,4 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-# Time
-
-[<img loading="lazy" src="https://avatars.githubusercontent.com/u/108580655?v=4" width=115><br><br><sub>Rodrigo Sá</sub>](https://github.com/RodrigoHeirbhor)
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/108580655?v=4" width=115><br><sub>Rodrigo Sá</sub>](https://github.com/RodrigoHeirbhor)
