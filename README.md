@@ -1,4 +1,4 @@
-<h1>The Game from the secret number</h1>
+<h1>The Secret Number Game</h1>
 
 <h2>🔖 About</h2>
 <p>This is a project developed along the Github course in Alura Scholl - Known more about Alura here <a href="https://www.alura.com.br/formacao-carreira-tester-qa">Here</a>!</p>
