@@ -8,6 +8,8 @@
       "git:push"  : "git push -u origin main",
       "git:commit": "git commit -m 'guessing-game-final-project'",
       "git:update": "git push -u origin main",
-      "git:historico": "git log"
+      "git:historico": "git log",
+      "git:criar": "git init",
+      "git:pull": "git pull origin main 'Test Pull'"
     }
 }
